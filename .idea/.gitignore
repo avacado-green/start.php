@@ -1,5 +1,6 @@
 # Default ignored files
 <<<<<<< HEAD
+<<<<<<< HEAD
 /
 /
 # Editor-based HTTP Client requests
@@ -8,6 +9,8 @@
 /
 /
 =======
+=======
+>>>>>>> ce82e6e (commit)
 /shelf/
 /workspace.xml
 # Editor-based HTTP Client requests
@@ -15,4 +18,7 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+<<<<<<< HEAD
 >>>>>>> 4284d1b (second homeworks)
+=======
+>>>>>>> ce82e6e (commit)
